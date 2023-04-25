@@ -11,8 +11,7 @@ function divide(number7, number8) {
     return number7 / number8;
 }
 
-
-
+// Addition function
 $(document).ready(function () {
     $('#calculator-form').submit(function (event) {
         event.preventDefault();
@@ -23,6 +22,7 @@ $(document).ready(function () {
     });
 });
 
+// Subtraction function
 $(document).ready(function () {
     $('#calculator-form1').submit(function (event) {
         event.preventDefault();
@@ -33,6 +33,7 @@ $(document).ready(function () {
     });
 });
 
+// Multiplication function
 $(document).ready(function () {
     $('#calculator-form2').submit(function (event) {
         event.preventDefault();
@@ -43,6 +44,7 @@ $(document).ready(function () {
     });
 });
 
+// Division function
 $(document).ready(function () {
     $('#calculator-form3').submit(function (event) {
         event.preventDefault();
@@ -52,5 +54,3 @@ $(document).ready(function () {
         $('#result3').val(result);
     });
 });
-
-njfdngkfdgbnbrjghjnrtkjnhgkrgjhnj

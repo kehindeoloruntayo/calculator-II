@@ -7,6 +7,7 @@
 * _CSS_
 * _BOOTSTRAP_
 * _JAVASCRIPT_
+* _JQUERY_
 
 ## Contact
 * _NAME: Oloruntayo Kehinde_
